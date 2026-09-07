@@ -1,9 +1,7 @@
-<!-- BANNER ANIMADO ESTILO SPIDER-MAN -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,23,0&height=220&section=header&text=Luis%20Anderson%20Palomino&fontSize=40&fontColor=ffffff&animation=twinkling&subtext=🕷️%20Your%20Friendly%20Neighborhood%20Developer%20🕸️&subFontSize=16)
 
 <div align="center">
 
-<!-- BADGES CON ESTILO SPIDER-MAN -->
 ![Profile Views](https://komarev.com/ghpvc/?username=luispalomino-sys&color=e60000&style=flat-square&label=SPIDEY+VIEWS)
 ![Followers](https://img.shields.io/github/followers/luispalomino-sys?label=ALLIES&style=flat-square&color=0033cc)
 ![Stars](https://img.shields.io/github/stars/luispalomino-sys?label=STARS&style=flat-square&color=e60000)
@@ -16,15 +14,14 @@
 
 <div align="center">
 
-<!-- GIF DE SPIDER-MAN EDITANDO/PROGRAMANDO -->
-<img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="320" alt="Spider-Man Coding"/>
+<img src="https://media.tenor.co/jAmBq0-TJDIAAAAd/spider-man-brand-new-day-filming.gif" width="380" alt="Spider-Man High Five"/>
 
-### 🚀 Luis Anderson Palomino Leon
+### 🚀 Luis Anderson Palomino
 **Systems Student & Software Developer**
 
 > *"With great power comes great responsibility... and great code!"* 🕸️
 
-Passionately web-slinging through software development, databases, and technological innovation.
+Passionate about software development, databases, and technological innovation.
 
 </div>
 
