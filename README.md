@@ -1,10 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=e60000,0055ff&height=220&section=header&text=Luis%20Anderson%20Palomino&fontSize=40&fontColor=ffffff&fontFamily=Impact&animation=twinkling&subtext=🕷️%20Tu%20Vecino%20Amigable%20Desarrollador%20🕸️&subFontSize=16&bgUrl=https://i.pinimg.com/1200x/80/0e/1a/800e1a12d9c626f281db34a4e804902d.jpg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=e60000,0055ff&height=220&section=header&text=Luis%20Anderson%20Palomino&fontSize=40&fontColor=ffffff&fontFamily=Courier%20New&animation=twinkling&subtext=🕷️%20Tu%20Vecino%20Amigable%20Desarrollador%20🕸️&subFontSize=16&bgUrl=https://i.pinimg.com/1200x/80/0e/1a/800e1a12d9c626f281db34a4e804902d.jpg)
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luispalomino-sys&color=e60000&style=flat-square&label=VISTAS+SPIDEY)
 ![Followers](https://img.shields.io/github/followers/luispalomino-sys?label=ALIADOS&style=flat-square&color=0055ff)
-![Stars](https://img.shields.io/github/stars/luispalomino-sys?label=ESTRELLAS&style=flat-square&color=e60000)
+![Stars](https://img.shields.io/github/stars/luispalomino-sys?label=STARS&style=flat-square&color=e60000)
 
 </div>
 
