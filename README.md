@@ -16,7 +16,7 @@
 
 <img src="https://media.tenor.co/jAmBq0-TJDIAAAAd/spider-man-brand-new-day-filming.gif" width="380" alt="Spider-Man chocando los cinco"/>
 
-### 🚀 Luis Anderson Palomino
+### 🚀 Luis Anderson Palomino Leon
 **Estudiante de Sistemas y Desarrollador de Software**
 
 > *"Un gran poder conlleva una gran responsabilidad... ¡y un gran código!"* 🕸️
