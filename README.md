@@ -1,35 +1,47 @@
-<!-- BANNER SUPERIOR ANIMADO -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,22&height=220&section=header&text=Luis%20Anderson%20Palomino&fontSize=42&fontColor=ffffff&animation=twinkling&subtext=Systems%20Student%20|%20Software%20Developer&subFontSize=18)
+<!-- BANNER ANIMADO ESTILO SPIDER-MAN -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,23,0&height=220&section=header&text=Luis%20Anderson%20Palomino&fontSize=40&fontColor=ffffff&animation=twinkling&subtext=🕷️%20Your%20Friendly%20Neighborhood%20Developer%20🕸️&subFontSize=16)
 
 <div align="center">
 
-<!-- BADGES DE CONTADORES Y ESTADÍSTICAS -->
-![Profile Views](https://komarev.com/ghpvc/?username=luispalomino-sys&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/luispalomino-sys?label=FOLLOWERS&style=flat-square&color=00c0ff)
-![Stars](https://img.shields.io/github/stars/luispalomino-sys?label=STARS&style=flat-square&color=yellow)
+<!-- BADGES CON ESTILO SPIDER-MAN -->
+![Profile Views](https://komarev.com/ghpvc/?username=luispalomino-sys&color=e60000&style=flat-square&label=SPIDEY+VIEWS)
+![Followers](https://img.shields.io/github/followers/luispalomino-sys?label=ALLIES&style=flat-square&color=0033cc)
+![Stars](https://img.shields.io/github/stars/luispalomino-sys?label=STARS&style=flat-square&color=e60000)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🕷️ About Me
 
 <div align="center">
 
-<!-- ILUSTRACIÓN DE DESARROLLADOR -->
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-workspace-illustration-download-in-svg-png-gif-file-formats--coding-laptop-desk-pack-network-communication-illustrations-7538965.png" width="300" alt="Developer Illustration"/>
+<!-- GIF DE SPIDER-MAN EDITANDO/PROGRAMANDO -->
+<img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="320" alt="Spider-Man Coding"/>
 
 ### 🚀 Luis Anderson Palomino
-**Systems Student**
+**Systems Student & Software Developer**
 
-Passionate about software development, databases, and technological innovation.
+> *"With great power comes great responsibility... and great code!"* 🕸️
+
+Passionately web-slinging through software development, databases, and technological innovation.
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🛠️ Spidey Tech Stack
+![Python](https://img.shields.io/badge/Python-e60000?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0033cc?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-e60000?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0033cc?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-e60000?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Spidey Stats
+<div align="center">
+
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luispalomino-sys&show_icons=true&theme=radium&title_color=e60000&icon_color=0033cc&text_color=ffffff&bg_color=0d1117&border_color=e60000)
+
+</div>
