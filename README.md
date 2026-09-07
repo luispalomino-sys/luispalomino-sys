@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Luis%20Anderson%20Palomino&fontSize=40&fontColor=ffffff&animation=twinkling&subtext=🕷️%20Your%20Friendly%20Neighborhood%20Developer%20🕸️&subFontSize=16&bgUrl=https://i.pinimg.pinimg.com/1200x/80/0e/1a/800e1a12d9c626f281db34a4e804902d.jpg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=e60000,0055ff&height=220&section=header&text=Luis%20Anderson%20Palomino&fontSize=40&fontColor=ffffff&animation=twinkling&subtext=🕷️%20Your%20Friendly%20Neighborhood%20Developer%20🕸️&subFontSize=16)
 
 <div align="center">
 
