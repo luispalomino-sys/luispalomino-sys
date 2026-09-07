@@ -19,7 +19,7 @@
 <!-- GIF DE SPIDER-MAN EDITANDO/PROGRAMANDO -->
 <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="320" alt="Spider-Man Coding"/>
 
-### 🚀 Luis Anderson Palomino
+### 🚀 Luis Anderson Palomino Leon
 **Systems Student & Software Developer**
 
 > *"With great power comes great responsibility... and great code!"* 🕸️
